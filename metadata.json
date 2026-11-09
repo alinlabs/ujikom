@@ -1,0 +1,10 @@
+{
+  "name": "UJIKOM",
+  "description": "Akses \u0026 download PDF panduan resmi kisi-kisi ujian komprehensif tertulis \u0026 lisan S1 Manajemen STIE Wibawa Karta Raharja Purwakarta standar terbaru 2027.",
+  "requestFramePermissions": [
+    "AUDIO_CAPTURE"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
