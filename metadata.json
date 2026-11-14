@@ -1,0 +1,10 @@
+{
+  "name": "Remix UJIKOM",
+  "description": "Platform panduan belajar dan simulasi ujian komprehensif tertulis \u0026 lisan Program Studi S1 Manajemen.",
+  "requestFramePermissions": [
+    "AUDIO_CAPTURE"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
